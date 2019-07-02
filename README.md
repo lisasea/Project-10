@@ -2,7 +2,6 @@
 # Full Stack App with React and a REST API
 
 ## Technologies used:
-     testing...
      React
      JSX
      React Router
